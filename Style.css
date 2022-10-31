@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
 body {
+    font-family: 'Fasthand', cursive;
+    
     text-align: center;
     background: rgb(104, 9, 9);
 }
@@ -6,6 +9,7 @@ body {
     width: 50%;
 }
 .beneficios {
+
 text-align: left;
 background-color: rgb(172, 87, 7);
 }
